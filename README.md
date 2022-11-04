@@ -2,15 +2,13 @@
 <h3 align="center">A Computer Science Student @ CSU Monterey Bay</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaim6&label=Profile%20views&color=0e75b6&style=flat" alt="isaim6" /> </p>
+- 🔭 I’m currently collaborating on: [Ichos](https://github.com/csteiner2000/cst499_ichos)
 
-- 🔭 I’m currently collaborating on [Ichos](https://github.com/csteiner2000/cst499_ichos)
-
-- 📫 How to reach me **isai.moli17@gmail.com**
+- 📫 How to reach me: **isai.moli17@gmail.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1vBzNz7_XczAarRffidzs53uS1swexSKj/view?usp=sharing)
 
-- ⚡ Fun fact **Music is a big passion of mine, along with software of course!**
+- ⚡ Fun fact: **Music is a big passion of mine, along with software of course!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
