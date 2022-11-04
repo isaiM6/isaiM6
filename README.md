@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **isai.moli17@gmail.com**
 
-- 📄 Know about my experiences(https://drive.google.com/file/d/1vBzNz7_XczAarRffidzs53uS1swexSKj/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1vBzNz7_XczAarRffidzs53uS1swexSKj/view?usp=sharing)
 
 - ⚡ Fun fact **Music is a big passion of mine, along with software of course!**
 
